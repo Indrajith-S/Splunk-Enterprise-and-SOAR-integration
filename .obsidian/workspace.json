@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "fe5ead392a149f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d3300c50eb3255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a87f0c45d09963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splunk - Phantom/2) Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd90b1492be19846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splunk Enterprise/2 - Integration of Splunk Enterprise with Splunk SOAR (Phantom).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "389d2628d06755ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splunk Enterprise/4- Forwarding the data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8629029e388744c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splunk Enterprise/2 - Integration of Splunk Enterprise with Splunk SOAR (Phantom).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11628290ac19d8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splunk Enterprise/4- Forwarding the data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0963aea4945f5e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d17e4761ad6305a",
+    "type": "split",
+    "children": [
+      {
+        "id": "552e80bdefd2f2e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cff7e77c838f9ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32cc5fe907ae4b7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebc98e050bc358f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef9ed8dd837041ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f62ba8c7420320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ec9cfe49c39fac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Splunk Enterprise/4- Forwarding the data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f15f66944ee2945",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Splunk Enterprise/4- Forwarding the data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed615a372a62f551",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b131da26075656cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Splunk Enterprise/4- Forwarding the data.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0963aea4945f5e2",
+  "lastOpenFiles": [
+    "Splunk Enterprise/3 - Configuration of Splunk App for SOAR Export.md",
+    "Splunk Enterprise/4- Forwarding the data.md",
+    "Splunk Enterprise/2 - Integration of Splunk Enterprise with Splunk SOAR (Phantom).md",
+    "Splunk Enterprise/1 - Introduction.md",
+    "Splunk Enterprise/Note.md",
+    "Splunk Enterprise/Images/user4.PNG",
+    "Splunk Enterprise/Images/user3.PNG",
+    "Splunk Enterprise/Images/user2.PNG",
+    "Installation.md",
+    "Splunk - Phantom/2) Apps.md"
+  ]
+}

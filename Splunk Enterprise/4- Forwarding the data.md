@@ -1,0 +1,21 @@
+### Configure a Splunk Asset in Splunk SOAR to pull data from the Splunk platform
+
+- Log in to your Splunk Phantom.
+- From the main menu, click **Apps**.
+- Search for **Splunk**, then click **Configure New Asset** in the Splunk app row.
+- Give the asset any name you like and also enter a description.
+- Click the **Asset Settings** tab.
+	- Add the IP address of your Splunk instance, that is your local machine.
+	- Enter your Splunk Enterprise username and password in their respective fields.
+	- Select the appropriate time zone.
+	- On Splunk Enterprise, certificate validation is optional.
+	- Enter the query in the **Query to use with On Poll** field. It could be anything, for example - ``"Message=A user's local group membership was enumerated." EventCode "EventCode=4798" "RecordNumber=282779"``
+	- Enter **appropriate field names** in the **Name to give containers created via ingestion** field.
+	- Click the **Ingest Settings** tab and select **events** as the **Label to apply to objects form this source** and then click on save.
+	- Verify the configuration by clicking **Asset Settings**, and then **Test Connectivity**. Make sure you get a message indicating a successful test. If you do not, check for a typo in the user name, password, removed permissions, or invalid commands.
+	- Create a poll request to verify that data can be pulled from the Splunk platform into Splunk Phantom.
+		- Click the **Ingest Settings** tab.
+		- Click **Poll Now**, verify the default settings, then click **Poll Now** again.
+		- Verify the response indicates that one container and artifact were created.
+		- Click **Close**.
+		- From the main menu, select **Sources** and verify the **Test On Poll** container and artifact.

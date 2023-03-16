@@ -1,0 +1,8 @@
+- Once we're done logging in, we land on the **home page** where we get an overview of everything going on in phantom.
+- **Navigation** can be found in the top left of the home page.
+- Moving on to **sources**, we see security events or containers fed to splunk SOAR by multiple sources.
+- Next up we have **indicators**, showing us a collection of our fields, AKA the threat intelligence part of this platform.
+- we have **Cases** as explained in the previous section. 
+- Further on, **Playbooks** providing us with the the automation and **Apps** providing us with actions to be called.
+- **Administration** as the name suggests contains user settings, firewall rules, and etc, admin stuff.
+- **Reporting** helps in generating reports for senior management.

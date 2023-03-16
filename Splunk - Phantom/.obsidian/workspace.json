@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "5ad14ce124c21b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9609d5cfdd4c51d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "783f838456418dc8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3846d2ee8a2c1cc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "118b6981751bd2a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89475e7612d3d484",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "3a98c84785bf8634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Intro",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6872c6c65304d14f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2da619ffa388bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3179af85b26fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b84032dac4f63d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83b058a1d4df2b44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6d38f0cce085a45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c0493f42e56888c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "783f838456418dc8",
+  "lastOpenFiles": [
+    "Integration between Splunk and Splunk Phantom.md",
+    "Introduction.md",
+    "5) Case.md",
+    "4) Events.md",
+    "1) Login to Phantom.md",
+    "Images/test playbook.PNG",
+    "3) Playbook.md",
+    "Splunk SOAR.md",
+    "2) Apps.md",
+    "2023-02-22.md"
+  ]
+}
